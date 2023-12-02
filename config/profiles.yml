@@ -3,11 +3,11 @@
     dev:
       account: rja95216
       database: DS5111_DB
-      password: <password> 
+      password: dbtorbust 
       role: DS5111_DBT
-      schema: LAB01_<uva uuid>
+      schema: LAB01_uxt5qb
       threads: 1
       type: snowflake
-      user: <uva uuid>@virginia.edu
+      user: uxt5qb@virginia.edu
       warehouse: COMPUTE_WH
   target: dev
